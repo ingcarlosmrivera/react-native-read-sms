@@ -19,8 +19,10 @@
     "read-sms",
     "react-native"
   ],
-  "author": "Unavailable",
-  "username": "Unavailable",
+  "author": {
+    "name": "someone",
+    "username": "someone"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "peerDependencies": {
